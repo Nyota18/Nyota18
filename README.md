@@ -2,7 +2,7 @@
 
 🚀 **Software Engineer | AI Explorer | Android Innovator | Tech Dreamer**
 
-> “Turning code into experiences and ideas into systems that *think*.”
+> “Turning code into experiences and ideas into systems that *make life easier*.”
 
 ---
 
