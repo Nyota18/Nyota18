@@ -8,7 +8,7 @@
 
 ### 💫 About Me
 I’m a passionate software engineer who loves pushing boundaries between **AI, mobile tech, and creativity.**  
-When I’m not coding, I’m probably analyzing football tactics ⚽, brainstorming new app ideas 💡, or figuring out how to make tech feel *more human*.  
+When I’m not coding, I’m probably analyzing football tactics ⚽, brainstorming new app ideas 💡, or making animations through AI.  
 
 I thrive at the intersection of **intelligence, design, and performance** — building tools that not only *work* but *wow.*
 
